@@ -3,7 +3,7 @@
 (function () {
     var script = document.createElement('script');
     script.async = true;
-    script.src = 'https://www.googletagmanager.com/gtag/js?id=G-E46DVYM87Z';
+    script.src = 'https://www.googletagmanager.com/gtag/js?id=G-PZ280P7M16';
   
     document.head.appendChild(script);
   
@@ -11,6 +11,6 @@
       window.dataLayer = window.dataLayer || [];
       function gtag() { dataLayer.push(arguments); }
       gtag('js', new Date());
-      gtag('config', 'G-E46DVYM87Z');
+      gtag('config', 'G-PZ280P7M16');
     };
   })();
